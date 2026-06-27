@@ -8,4 +8,4 @@ I'm Bharath Kumar Reddy Allampati — a CS undergrad specializing in Information
 - 💬 Ask me about: Python, AWS (EC2/S3/Lambda/IAM/Rekognition), Wireshark, SIEM/IDS
 - 📫 How to reach me: bharath02032508@gmail.com · [LinkedIn](#) · [Portfolio](#)
 
-**Certified in:** Oracle OCI Generative AI Professional (96%) · Google Cybersecurity Professional Certificate · TATA Cybersecurity Analyst Job Simulation · Full Stack Web Development Internship, Pantech Prolabs
+**Certified in:** · Full Stack Web Development Internship, Pantech Prolabs · Oracle OCI Generative AI Professional (96%) · Google Cybersecurity Professional Certificate · TATA Cybersecurity Analyst Job Simulation 
