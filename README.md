@@ -6,6 +6,6 @@ I'm Bharath Kumar Reddy Allampati — a CS undergrad specializing in Information
 - 🔭 I'm currently working on: a digital watermarking pipeline (LSB + DCT), an IAM-secured AWS crowd-detection tool, and an interactive quiz platform — see pinned repos
 - 🌱 I'm currently learning: applied cryptography and cloud security on AWS
 - 💬 Ask me about: Python, AWS (EC2/S3/Lambda/IAM/Rekognition), Wireshark, SIEM/IDS
-- 📫 How to reach me: bharath02032508@gmail.com · [LinkedIn](#) · [Portfolio](#)
+- 📫 How to reach me: bharath02032508@gmail.com · [LinkedIn](https://www.linkedin.com/in/bharath-allampati-cse/) · [Portfolio](https://bharath-reddy-mu.vercel.app/)
 
 **Certified in:** · Full Stack Web Development Internship, Pantech Prolabs · Oracle OCI Generative AI Professional (96%) · Google Cybersecurity Professional Certificate · TATA Cybersecurity Analyst Job Simulation 
