@@ -4,8 +4,11 @@ I'm **Bharath Kumar Reddy Allampati** — a Computer Science graduate from **VIT
 
 * 🔭 **I'm currently working on:**
   * 🎓 [GateLabs](https://github.com/bharathreddy55/GateLabs) — AI-Powered GATE CS & IT Preparation Platform (CBT Simulator, Gemini AI, Chart.js)
+    * *Design Rationale:* Integrates Gemini 1.5 Flash to handle unstructured student questions and complex mathematical concept clarification where static databases fall short.
   * 🎙️ [AetherCast-MERN](https://github.com/bharathreddy55/AetherCast-MERN) — Podcast Streaming Service (Supabase Auth, Waveforms, Gemini AI)
+    * *Design Rationale:* Implements Supabase ES256 key signing to prevent hotlinking and unauthorized media bandwidth consumption.
   * 🎟️ [SeatSync](https://github.com/bharathreddy55/SeatSync) — High-Concurrency Ticket Booking System (Spring Boot, Kafka, Redis locks)
+    * *Design Rationale:* Engineered using a microservices pattern specifically to practice and demonstrate distributed transaction management (Saga pattern), event streaming (Kafka), and Redis-based concurrency locking.
 * 🌱 **I'm currently learning:** Java Streams, Multithreading, JDBC, Spring Boot, and modern backend development
 * 💻 **I work with:**
   * **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -24,8 +27,11 @@ I'm **Bharath Kumar Reddy Allampati** — a Computer Science graduate from **VIT
 ### 📂 Other Repositories & Projects
 
 * 🧠 [QuizMe](https://github.com/bharathreddy55/Quiz---Me) — Online examination platform with sentiment analysis and recommendation system (Spring MVC, MySQL)
+  * *Design Rationale:* Leverages sentiment analysis of user textual feedback to evaluate platform friction and recommend topic updates.
 * ☁️ [Smart Queue Alert System](https://github.com/bharathreddy55/Smart-Queue-Alert-System) — Person detection and crowd alert system using AWS S3 and AWS Rekognition (Python, Google Colab)
+  * *Design Rationale:* Built as a lightweight, serverless computer vision proof-of-concept (PoC) in Google Colab to verify AWS Rekognition feasibility before production backend deployment.
 * 🔒 [Digital Watermarking](https://github.com/bharathreddy55/Digital-Watermarking-Images) — Image ownership verification and watermark embedding (Python, NumPy, OpenCV)
+  * *Design Rationale:* Implements pixel-level image processing to study data-hiding robustness against compression attacks.
 
 ---
 
