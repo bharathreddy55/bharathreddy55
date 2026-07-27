@@ -45,5 +45,5 @@ I'm **Bharath Kumar Reddy Allampati** — a Computer Science graduate from **VIT
 ### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bharathreddy55&theme=nord" alt="Bharath's GitHub Streak" height="155" />
+  <img src="https://streak-stats.demolab.com?user=bharathreddy55&theme=nord&cb=1" alt="Bharath's GitHub Streak" height="155" />
 </p>
