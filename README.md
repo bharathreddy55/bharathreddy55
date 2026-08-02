@@ -26,79 +26,23 @@ A Computer Science graduate from **VIT, Class of 2026**, focused on building ful
 | **GateLabs** | [**`Try Live Demo 🎓`**](https://gatelabs-taupe.vercel.app) | [**`View Code 💻`**](https://github.com/bharathreddy55/GateLabs) | <kbd>CBT Exam Simulator</kbd> <kbd>Gemini AI Assistant</kbd> <kbd>Analytics Charts</kbd> |
 | **AetherCast** | [**`Try Live Demo 🎙️`**](https://podcast-frontend-roan.vercel.app) | [**`View Code 💻`**](https://github.com/bharathreddy55/AetherCast-MERN) | <kbd>Supabase ES256 Auth</kbd> <kbd>Waveform Visualizer</kbd> <kbd>Gemini Summarizer</kbd> |
 
+---
+
 * 🌱 **I'm currently learning:** RESTful APIs, Multithreading
 * 💻 **I work with:**
 
-  <table align="center" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="top" width="20%">
-        <strong>Languages</strong><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28" /><br/>
-        <kbd>Java</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="28" height="28" /><br/>
-        <kbd>JavaScript</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="28" height="28" /><br/>
-        <kbd>TypeScript</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28" /><br/>
-        <kbd>Python (basics)</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="28" height="28" /><br/>
-        <kbd>SQL</kbd>
-      </td>
-      <td align="center" valign="top" width="20%">
-        <strong>Backend & Framework</strong><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="28" height="28" /><br/>
-        <kbd>Spring Boot</kbd><br/>
-        <kbd>Spring Cloud</kbd><br/>
-        <kbd>Spring Framework</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="28" height="28" /><br/>
-        <kbd>Node.js</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="28" height="28" /><br/>
-        <kbd>Express.js</kbd><br/><br/>
-        <kbd>Microservices</kbd>
-      </td>
-      <td align="center" valign="top" width="20%">
-        <strong>Frontend</strong><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="28" height="28" /><br/>
-        <kbd>HTML5</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="28" height="28" /><br/>
-        <kbd>CSS3</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="28" height="28" /><br/>
-        <kbd>React.js</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="28" height="28" /><br/>
-        <kbd>Tailwind CSS</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="28" height="28" /><br/>
-        <kbd>Bootstrap</kbd>
-      </td>
-      <td align="center" valign="top" width="20%">
-        <strong>Databases</strong><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="28" height="28" /><br/>
-        <kbd>PostgreSQL</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28" /><br/>
-        <kbd>MySQL</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28" /><br/>
-        <kbd>MongoDB</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="28" height="28" /><br/>
-        <kbd>Redis</kbd>
-      </td>
-      <td align="center" valign="top" width="20%">
-        <strong>Tools & Cloud</strong><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28" height="28" /><br/>
-        <kbd>Git</kbd> · <kbd>GitHub</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="28" height="28" /><br/>
-        <kbd>Docker</kbd><br/>
-        <kbd>Docker Compose</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="28" height="28" /><br/>
-        <kbd>Apache Kafka</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="28" height="28" /><br/>
-        <kbd>AWS</kbd><br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="28" height="28" /><br/>
-        <kbd>Supabase</kbd> · <kbd>Firebase</kbd>
-      </td>
-    </tr>
-  </table>
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003F5C?style=for-the-badge&logo=sqlite&logoColor=white)
 
-* ☕ **Core Java Competencies:** <kbd>OOP</kbd> · <kbd>Collections Framework</kbd> · <kbd>Exception Handling</kbd> · <kbd>Stream API</kbd>
-* 📚 **Relevant Coursework:** <kbd>Data Structures & Algorithms</kbd> · <kbd>Database Management Systems (DBMS)</kbd> · <kbd>Operating Systems</kbd>
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-3D3D3D?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+* ☕ **Core Java Competencies:** ![OOP](https://img.shields.io/badge/OOP-3D3D3D?style=for-the-badge) ![Collections Framework](https://img.shields.io/badge/Collections_Framework-3D3D3D?style=for-the-badge) ![Exception Handling](https://img.shields.io/badge/Exception_Handling-3D3D3D?style=for-the-badge) ![Stream API](https://img.shields.io/badge/Stream_API-3D3D3D?style=for-the-badge)
+* 📚 **Relevant Coursework:** ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3D3D3D?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-3D3D3D?style=for-the-badge) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-3D3D3D?style=for-the-badge)
 
 ---
 
