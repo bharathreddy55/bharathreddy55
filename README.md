@@ -17,11 +17,60 @@ A Computer Science graduate from **VIT, Class of 2026**, focused on building ful
     * *Design Rationale:* Engineered using a microservices pattern specifically to practice and demonstrate distributed transaction management (Saga pattern), event streaming (Kafka), and Redis-based concurrency locking.
 * 🌱 **I'm currently learning:** Java Streams, Multithreading, JDBC, Spring Boot, and modern backend development
 * 💻 **I work with:**
-  * **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-  * **Backend:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  * **Frontend:** ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  * **Databases & Cache:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-  * **DevOps & Cloud:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+  <table align="center" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" valign="top" width="20%">
+        <strong>Languages</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28" height="28" /><br/>
+        <kbd>Java</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="28" height="28" /><br/>
+        <kbd>JavaScript</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28" /><br/>
+        <kbd>Python</kbd>
+      </td>
+      <td align="center" valign="top" width="20%">
+        <strong>Backend</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="28" height="28" /><br/>
+        <kbd>Spring Boot</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="28" height="28" /><br/>
+        <kbd>Node.js</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="28" height="28" /><br/>
+        <kbd>Express.js</kbd>
+      </td>
+      <td align="center" valign="top" width="20%">
+        <strong>Frontend</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="28" height="28" /><br/>
+        <kbd>React.js</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="28" height="28" /><br/>
+        <kbd>Tailwind CSS</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="28" height="28" /><br/>
+        <kbd>Bootstrap</kbd>
+      </td>
+      <td align="center" valign="top" width="20%">
+        <strong>Databases</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="28" height="28" /><br/>
+        <kbd>PostgreSQL</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28" /><br/>
+        <kbd>MySQL</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="28" height="28" /><br/>
+        <kbd>MongoDB</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="28" height="28" /><br/>
+        <kbd>Redis</kbd>
+      </td>
+      <td align="center" valign="top" width="20%">
+        <strong>DevOps & Cloud</strong><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="28" height="28" /><br/>
+        <kbd>Docker</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="28" height="28" /><br/>
+        <kbd>Apache Kafka</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="28" height="28" /><br/>
+        <kbd>AWS</kbd><br/><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="28" height="28" /><br/>
+        <kbd>Supabase</kbd>
+      </td>
+    </tr>
+  </table>
 * 🎯 **I'm focused on:** Java Full Stack Development and Software Engineering
 * 📫 **Reach me at:**
   * 📧 [bharath02032508@gmail.com](mailto:bharath02032508@gmail.com)
