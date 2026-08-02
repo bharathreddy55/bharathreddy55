@@ -81,10 +81,20 @@ A Computer Science graduate from **VIT, Class of 2026**, focused on building ful
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications & Internships
 
-* 🏆 **Oracle Certified:** OCI Generative AI Professional (Score: 96%)
-* 💼 **Full Stack Web Development Internship:** Pantech Prolabs
+* 🏆 **Oracle Cloud Infrastructure (OCI) 2025 Certified Generative AI Professional**
+  * *Credential ID:* `101961117OCI25GAIOCP` · *Issued:* July 2025
+  * 🔗 [**`View Verification Certificate 📄`**](https://github.com/bharathreddy55/bharathreddy55/blob/main/certificates/Oracle_Generative_AI_Professional.pdf)
+* 🛡️ **Google Cybersecurity Professional Certificate**
+  * *Platform:* Coursera · *Issued:* July 2025
+  * 🔗 [**`View Verification Certificate 📄`**](https://github.com/bharathreddy55/bharathreddy55/blob/main/certificates/Google_Cybersecurity_Professional.pdf) · [**`Verify Online 🌐`**](https://coursera.org/verify/professional-cert/S9ELSG7CTYKC)
+* 💼 **Full Stack Web Development Internship**
+  * *Company:* Pantech Prolabs India Pvt Ltd · *Completed:* December 2024
+  * 🔗 [**`View Internship Certificate 📄`**](https://github.com/bharathreddy55/bharathreddy55/blob/main/certificates/Pantech_Full_Stack_Internship.pdf)
+* 🔍 **Cybersecurity Analyst Job Simulation**
+  * *Company:* Tata / Forage · *Completed:* August 2025
+  * 🔗 [**`View Simulation Certificate 📄`**](https://github.com/bharathreddy55/bharathreddy55/blob/main/certificates/TATA_Forage_Cybersecurity_Analyst.pdf)
 
 ---
 
