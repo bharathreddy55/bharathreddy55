@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="./github_profile_banner.jpg" alt="Bharath Allampati Banner" width="100%" />
+</p>
+
 ## Hi there 👋
 
-I'm **Bharath Kumar Reddy Allampati** — a Computer Science graduate from **VIT, Class of 2026**, focused on building full-stack applications and strengthening my software engineering skills.
+I'm **Bharath Kumar Reddy Allampati**
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38B2AC&width=450&lines=Software+Engineer;Full+Stack+Developer;Java+Backend+Specialist;VIT+CS+Graduate" alt="Typing SVG" />
+</p>
+
+A Computer Science graduate from **VIT, Class of 2026**, focused on building full-stack applications and strengthening my software engineering skills.
 
 * 🔭 **I'm currently working on:**
   * 🎓 [GateLabs](https://github.com/bharathreddy55/GateLabs) — AI-Powered GATE CS & IT Preparation Platform (CBT Simulator, Gemini AI, Chart.js)
