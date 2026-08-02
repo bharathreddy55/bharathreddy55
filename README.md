@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_profile_banner.jpg" alt="Bharath Allampati Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bharathreddy55/bharathreddy55/main/github_profile_banner.jpg" alt="Bharath Allampati Banner" width="100%" />
 </p>
 
 ## Hi there 👋
