@@ -26,21 +26,6 @@ A Computer Science graduate from **VIT, Class of 2026**, focused on building ful
 | **GateLabs** | [**`Try Live Demo 🎓`**](https://gatelabs-taupe.vercel.app) | [**`View Code 💻`**](https://github.com/bharathreddy55/GateLabs) | <kbd>CBT Exam Simulator</kbd> <kbd>Gemini AI Assistant</kbd> <kbd>Analytics Charts</kbd> |
 | **AetherCast** | [**`Try Live Demo 🎙️`**](https://podcast-frontend-roan.vercel.app) | [**`View Code 💻`**](https://github.com/bharathreddy55/AetherCast-MERN) | <kbd>Supabase ES256 Auth</kbd> <kbd>Waveform Visualizer</kbd> <kbd>Gemini Summarizer</kbd> |
 
----
-
-* 🔭 **I'm currently working on:**
-  * 🎓 [GateLabs](https://github.com/bharathreddy55/GateLabs) — AI-Powered GATE CS & IT Preparation Platform
-    * **Tech Stack:** `React (Vite)` · `Tailwind CSS` · `Firebase` · `Gemini 1.5 Flash` · `Chart.js`
-    * **Highlights:** <kbd>CBT Simulator</kbd> · <kbd>Draggable Scientific Calculator</kbd> · <kbd>Gemini AI concept tutor</kbd> · <kbd>Chart.js mistake analytics</kbd>
-    * *Design Rationale:* Integrates Gemini 1.5 Flash to handle unstructured student questions and complex mathematical concept clarification where static databases fall short.
-  * 🎙️ [AetherCast-MERN](https://github.com/bharathreddy55/AetherCast-MERN) — Podcast Streaming Service
-    * **Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB Atlas` · `Supabase Auth` · `Gemini API`
-    * **Highlights:** <kbd>Web Audio Recording Booth</kbd> · <kbd>Real-time Waveform Canvas</kbd> · <kbd>Supabase ES256 signed Auth</kbd> · <kbd>Gemini AI summaries</kbd>
-    * *Design Rationale:* Implements Supabase ES256 key signing to prevent hotlinking and unauthorized media bandwidth consumption.
-  * 🎟️ [SeatSync](https://github.com/bharathreddy55/SeatSync) — High-Concurrency Ticket Booking System
-    * **Tech Stack:** `Spring Boot` · `Spring Cloud` · `PostgreSQL` · `Redis` · `Apache Kafka` · `Docker` · `React` · `TypeScript`
-    * **Highlights:** <kbd>Distributed Microservices (Eureka)</kbd> · <kbd>Redis-based distributed holds</kbd> · <kbd>JPA Optimistic Locking</kbd> · <kbd>Idempotent Payments</kbd> · <kbd>Kafka event streams</kbd>
-    * *Design Rationale:* Engineered using a microservices pattern specifically to practice and demonstrate distributed transaction management (Saga pattern), event streaming (Kafka), and Redis-based concurrency locking.
 * 🌱 **I'm currently learning:** RESTful APIs, Multithreading
 * 💻 **I work with:**
 
@@ -114,6 +99,25 @@ A Computer Science graduate from **VIT, Class of 2026**, focused on building ful
 
 * ☕ **Core Java Competencies:** <kbd>OOP</kbd> · <kbd>Collections Framework</kbd> · <kbd>Exception Handling</kbd> · <kbd>Stream API</kbd>
 * 📚 **Relevant Coursework:** <kbd>Data Structures & Algorithms</kbd> · <kbd>Database Management Systems (DBMS)</kbd> · <kbd>Operating Systems</kbd>
+
+---
+
+* 🔭 **I'm currently working on:**
+  * 🎓 [GateLabs](https://github.com/bharathreddy55/GateLabs) — AI-Powered GATE CS & IT Preparation Platform
+    * **Tech Stack:** `React (Vite)` · `Tailwind CSS` · `Firebase` · `Gemini 1.5 Flash` · `Chart.js`
+    * **Highlights:** <kbd>CBT Simulator</kbd> · <kbd>Draggable Scientific Calculator</kbd> · <kbd>Gemini AI concept tutor</kbd> · <kbd>Chart.js mistake analytics</kbd>
+    * *Design Rationale:* Integrates Gemini 1.5 Flash to handle unstructured student questions and complex mathematical concept clarification where static databases fall short.
+  * 🎙️ [AetherCast-MERN](https://github.com/bharathreddy55/AetherCast-MERN) — Podcast Streaming Service
+    * **Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB Atlas` · `Supabase Auth` · `Gemini API`
+    * **Highlights:** <kbd>Web Audio Recording Booth</kbd> · <kbd>Real-time Waveform Canvas</kbd> · <kbd>Supabase ES256 signed Auth</kbd> · <kbd>Gemini AI summaries</kbd>
+    * *Design Rationale:* Implements Supabase ES256 key signing to prevent hotlinking and unauthorized media bandwidth consumption.
+  * 🎟️ [SeatSync](https://github.com/bharathreddy55/SeatSync) — High-Concurrency Ticket Booking System
+    * **Tech Stack:** `Spring Boot` · `Spring Cloud` · `PostgreSQL` · `Redis` · `Apache Kafka` · `Docker` · `React` · `TypeScript`
+    * **Highlights:** <kbd>Distributed Microservices (Eureka)</kbd> · <kbd>Redis-based distributed holds</kbd> · <kbd>JPA Optimistic Locking</kbd> · <kbd>Idempotent Payments</kbd> · <kbd>Kafka event streams</kbd>
+    * *Design Rationale:* Engineered using a microservices pattern specifically to practice and demonstrate distributed transaction management (Saga pattern), event streaming (Kafka), and Redis-based concurrency locking.
+
+---
+
 * 🎯 **I'm focused on:** Java Full Stack Development and Software Engineering
 * 📫 **Reach me at:**
   * 📧 [bharath02032508@gmail.com](mailto:bharath02032508@gmail.com)
