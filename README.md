@@ -23,9 +23,6 @@
 | 🎟️ **SeatSync** | High-concurrency ticket booking — Spring Boot microservices, Kafka event streaming, Redis distributed locks, idempotent payments | [🚀 Demo](https://seat-sync-ecru.vercel.app) | [💻 Code](https://github.com/bharathreddy55/SeatSync) |
 | 🎓 **GateLabs** | AI-powered GATE CS exam platform — CBT simulator with timer, Gemini AI concept tutor, Chart.js mistake analytics | [🎓 Demo](https://gatelabs-taupe.vercel.app) | [💻 Code](https://github.com/bharathreddy55/GateLabs) |
 | 🎙️ **AetherCast** | Production-grade podcast platform — browser recording booth, real-time waveform canvas, Gemini AI summarizer, Supabase ES256 signed auth | [🎙️ Demo](https://podcast-frontend-roan.vercel.app) | [💻 Code](https://github.com/bharathreddy55/AetherCast-MERN) |
-| 🧠 **QuizMe** | Online exam platform with sentiment analysis on user feedback to power topic recommendations | — | [💻 Code](https://github.com/bharathreddy55/Quiz---Me) |
-| ☁️ **Smart Queue Alert** | Real-time crowd detection using AWS Rekognition & S3, built as a serverless PoC in Python / Google Colab | — | [💻 Code](https://github.com/bharathreddy55/Smart-Queue-Alert-System) |
-| 🔒 **Digital Watermarking** | Pixel-level image ownership verification using NumPy & OpenCV; studies compression attack robustness | — | [💻 Code](https://github.com/bharathreddy55/Digital-Watermarking-Images) |
 
 ---
 
