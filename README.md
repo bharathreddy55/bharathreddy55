@@ -16,16 +16,6 @@
 
 ---
 
-### ⚡ Projects — Live Demos & Source Code
-
-| Project | What it does | Live | Code |
-| :--- | :--- | :---: | :---: |
-| 🎟️ **SeatSync** | High-concurrency ticket booking — Spring Boot microservices, Kafka event streaming, Redis distributed locks, idempotent payments | [🚀 Demo](https://seat-sync-ecru.vercel.app) | [💻 Code](https://github.com/bharathreddy55/SeatSync) |
-| 🎓 **GateLabs** | AI-powered GATE CS exam platform — CBT simulator with timer, Gemini AI concept tutor, Chart.js mistake analytics | [🎓 Demo](https://gatelabs-taupe.vercel.app) | [💻 Code](https://github.com/bharathreddy55/GateLabs) |
-| 🎙️ **AetherCast** | Production-grade podcast platform — browser recording booth, real-time waveform canvas, Gemini AI summarizer, Supabase ES256 signed auth | [🎙️ Demo](https://podcast-frontend-roan.vercel.app) | [💻 Code](https://github.com/bharathreddy55/AetherCast-MERN) |
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -68,6 +58,16 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
+
+---
+
+### ⚡ Projects — Live Demos & Source Code
+
+| Project | What it does | Live | Code |
+| :--- | :--- | :---: | :---: |
+| 🎟️ **SeatSync** | High-concurrency ticket booking — Spring Boot microservices, Kafka event streaming, Redis distributed locks, idempotent payments | [🚀 Demo](https://seat-sync-ecru.vercel.app) | [💻 Code](https://github.com/bharathreddy55/SeatSync) |
+| 🎓 **GateLabs** | AI-powered GATE CS exam platform — CBT simulator with timer, Gemini AI concept tutor, Chart.js mistake analytics | [🎓 Demo](https://gatelabs-taupe.vercel.app) | [💻 Code](https://github.com/bharathreddy55/GateLabs) |
+| 🎙️ **AetherCast** | Production-grade podcast platform — browser recording booth, real-time waveform canvas, Gemini AI summarizer, Supabase ES256 signed auth | [🎙️ Demo](https://podcast-frontend-roan.vercel.app) | [💻 Code](https://github.com/bharathreddy55/AetherCast-MERN) |
 
 ---
 
