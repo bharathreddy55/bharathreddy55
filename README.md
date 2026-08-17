@@ -5,7 +5,9 @@
 </p>
 
 <p align="left">
-  <a href="https://bharath-reddy-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%BC_Portfolio_%26_Resume-238636?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://bharath-reddy-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/bharathreddy55/bharathreddy55/blob/main/Bharath_Allampati_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-238636?style=for-the-badge&logoColor=white" alt="Resume" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/bharath-allampati-cse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
