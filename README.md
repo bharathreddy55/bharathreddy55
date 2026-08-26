@@ -65,11 +65,15 @@
 
 ### ⚡ Projects — Live Demos & Source Code
 
-| Project | What it does | Live | Code |
+| Project | What it does | Live / Demo | Code |
 | :--- | :--- | :---: | :---: |
 | 🎟️ **SeatSync** | High-concurrency ticket booking — Spring Boot microservices, Kafka event streaming, Redis distributed locks, idempotent payments | [🚀 Demo](https://seat-sync-ecru.vercel.app) | [💻 Code](https://github.com/bharathreddy55/SeatSync) |
-| 🎓 **GateLabs** | AI-powered GATE CS exam platform — CBT simulator with timer, Gemini AI concept tutor, Chart.js mistake analytics | [🎓 Demo](https://gatelabs-taupe.vercel.app) | [💻 Code](https://github.com/bharathreddy55/GateLabs) |
-| 🎙️ **AetherCast** | Production-grade podcast platform — browser recording booth, real-time waveform canvas, Gemini AI summarizer, Supabase ES256 signed auth | [🎙️ Demo](https://podcast-frontend-roan.vercel.app) | [💻 Code](https://github.com/bharathreddy55/AetherCast-MERN) |
+| 🎓 **GateLabs** | AI-powered GATE CS exam platform — CBT simulator with timer, Gemini AI concept tutor, mistake analytics | [🎓 Demo](https://gatelabs-taupe.vercel.app) | [💻 Code](https://github.com/bharathreddy55/GateLabs) |
+| 🎙️ **AetherCast** | Podcast streaming service — browser audio recording booth, real-time waveform canvas, Gemini AI summaries | [🎙️ Demo](https://podcast-frontend-roan.vercel.app) | [💻 Code](https://github.com/bharathreddy55/AetherCast-MERN) |
+| ❄️ **AuraHabit** | RPG Habit & Goal Tracker — Anime Card Battler + Nordic Ice Fog design, weekly trends, built with Capacitor & Firebase | [🚀 Web App](https://aura-habit-roan.vercel.app) &nbsp;·&nbsp; [📱 Android APK](https://github.com/bharathreddy55/Aura_Habit/raw/main/releases/AuraHabit-v1.3.apk) | *Private Repo* |
+| 🧠 **QuizMe** | Online examination platform with feedback sentiment analysis and recommendation engine | — | [💻 Code](https://github.com/bharathreddy55/Quiz---Me) |
+| ☁️ **Smart Queue Alert** | Person detection and crowd alert system using AWS S3 and AWS Rekognition | — | [💻 Code](https://github.com/bharathreddy55/Smart-Queue-Alert-System) |
+| 🔒 **Digital Watermarking** | Image ownership verification and watermark embedding with OpenCV | — | [💻 Code](https://github.com/bharathreddy55/Digital-Watermarking-Images) |
 
 ---
 
@@ -84,7 +88,7 @@
 
 ---
 
-### 📊 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bharathreddy55&theme=nord&cb=2" alt="Bharath's GitHub Streak" height="155" />
