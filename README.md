@@ -71,9 +71,6 @@
 | 🎓 **GateLabs** | AI-powered GATE CS exam platform — CBT simulator with timer, Gemini AI concept tutor, mistake analytics | [🎓 Demo](https://gatelabs-taupe.vercel.app) | [💻 Code](https://github.com/bharathreddy55/GateLabs) |
 | 🎙️ **AetherCast** | Podcast streaming service — browser audio recording booth, real-time waveform canvas, Gemini AI summaries | [🎙️ Demo](https://podcast-frontend-roan.vercel.app) | [💻 Code](https://github.com/bharathreddy55/AetherCast-MERN) |
 | ❄️ **AuraHabit** | RPG Habit & Goal Tracker — Anime Card Battler + Nordic Ice Fog design, weekly trends, built with Capacitor & Firebase | [🚀 Web App](https://aura-habit-roan.vercel.app) &nbsp;·&nbsp; [📱 Android APK](https://github.com/bharathreddy55/Aura_Habit/raw/main/releases/AuraHabit-v1.3.apk) | *Private Repo* |
-| 🧠 **QuizMe** | Online examination platform with feedback sentiment analysis and recommendation engine | — | [💻 Code](https://github.com/bharathreddy55/Quiz---Me) |
-| ☁️ **Smart Queue Alert** | Person detection and crowd alert system using AWS S3 and AWS Rekognition | — | [💻 Code](https://github.com/bharathreddy55/Smart-Queue-Alert-System) |
-| 🔒 **Digital Watermarking** | Image ownership verification and watermark embedding with OpenCV | — | [💻 Code](https://github.com/bharathreddy55/Digital-Watermarking-Images) |
 
 ---
 
